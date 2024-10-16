@@ -16,7 +16,7 @@ https://www.lookmumnocomputer.com/sequencer-keyboard
 #define START_ANALOG_CHANNEL 2  
 #define STOP_ANALOG_CHANNEL 3   
 
-// Teensy External Clocks
+// Teensy External Clock
 #define EXTERNAL_CLOCK_PIN 9   
 #define CLOCK_SWITCH_INT_PIN 8  
 #define CLOCK_SWITCH_EXT_PIN 10 
