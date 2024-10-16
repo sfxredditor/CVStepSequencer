@@ -1,4 +1,4 @@
-/* Jon Pascone | https://www.audioalchemyinc.com |
+/* Jon Pascone | https://www.audioalchemyinc.com | https://github.com/sfxredditor/CVStepSequencer |
 
 CV Step Outputs read pitch & decay; CV3 reads pitch in ZERO_MODE only
 CV1 = DronePitch; CV2 = PostDecayTrigger; CV3 = Keyboard; CV4 = GateOutput
